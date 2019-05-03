@@ -1,0 +1,26 @@
+{
+  "name": "football-info",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/abdillah976/football-info.git"
+  },
+  "author": "Abdillah MOHAMED OMAR",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abdillah976/football-info/issues"
+  },
+  "homepage": "https://github.com/abdillah976/football-info#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cheerio": "^1.0.0-rc.3",
+    "express": "^4.16.4",
+    "hbs": "^4.0.4",
+    "mongoose": "^5.5.5"
+  }
+}
